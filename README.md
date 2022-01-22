@@ -1,5 +1,6 @@
 <div align="center">
   
-# 👉[Portfolio](https://gauravbisht005.github.io)👈
-</div>
+# 👉<a href="https://gauravbisht005.github.io" target="_blank">Portfolio</a>👈
+
 This is my Portfolio Repo on GitHub!!!
+</div>
